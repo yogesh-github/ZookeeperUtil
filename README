@@ -1,4 +1,7 @@
 ZookeeperUtil is a collection of utility tools for Zookeeper.
 
-PrintTree util prints all zookeeper files / nodes in zookeeper file systems in linux tree command format.
-There is also an option to show file content/data in the tree. 
+PrintTree util prints all zookeeper files / nodes in zookeeper file systems in linux tree command format 
+and in XML format.
+
+input arguments:
+path zookeeperConnectionString treeType
